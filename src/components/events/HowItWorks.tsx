@@ -102,6 +102,7 @@ const HowItWorks: React.FC = () => {
       </div>
 
       {/* Divider */}
+      {/* hhhh */}
       <div className="h-px bg-white/10 mx-8 sm:mx-12" />
 
       {/* DESKTOP: 3 columns */}
